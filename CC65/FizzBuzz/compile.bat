@@ -5,7 +5,7 @@ set LINKER=C:\c64\cc65\bin\ld65
 set INCLUDE=C:\c64\cc65\include
 set LIB=C:\c64\cc65\lib\c64.lib
 set X64="C:\Program Files\WinVICE\x64"
-set PROGRUN="C:\c64\projects\FizzBuzz\fizzbuzz.prg"
+set PROGRUN="C:\c64\projects\CC65\FizzBuzz\fizzbuzz.prg"
 REM: Delete old files
 del %PROGRUN%
 del *.o
